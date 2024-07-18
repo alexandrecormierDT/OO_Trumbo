@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(0,'P:/pipeline/extra_scripts/python_include')
+
 import argparse
 import os
 import json
